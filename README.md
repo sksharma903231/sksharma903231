@@ -4,8 +4,6 @@ Welcome to my little corner of GitHub.
 
 I'm a software tester by day, a curious builder in my free time, and someone who enjoys figuring out how things work (and occasionally why they don't 😄).
 
-I spend most of my time around **Java, Selenium, test automation and Python**. Outside that, I like experimenting with **AI, RAG systems, robotics and Linux**. A few different interests, but they all come down to the same thing: learning by building.
-
 ### A few things I've been tinkering with
 
 - 🧪 **[E-commerce UI Automation](https://github.com/sksharma903231/ecommerce-ui-automation)** — exploring browser automation with Java, Selenium and TestNG.
