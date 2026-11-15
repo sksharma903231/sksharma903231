@@ -1,4 +1,4 @@
-# Hey, I'm Sumit 👋
+# Hey 👋
 
 Welcome to my little corner of GitHub.
 
