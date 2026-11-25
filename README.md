@@ -1,16 +1,26 @@
-# Sumit Sharma
+# Hey, I'm Sumit 👋
 
-### QA Automation Engineer | Java | Selenium | API Testing
+I'm a QA Automation Engineer at Accenture, working with Java, Selenium and Salesforce testing.
 
-Working in QA at Accenture, focused on Salesforce testing and Java/Selenium automation. I also build independent UI and API automation projects.
+I enjoy exploring how applications work, finding what breaks, and figuring out how to make testing more reliable. Outside my day-to-day work, I build automation projects and experiment with AI and robotics.
 
-## Projects
+### A few things I'm working with
 
-- **[Java API Automation Framework](https://github.com/sksharma903231/java-api-automation-framework)** — Java, REST Assured, TestNG, Maven, JSON Schema validation.
-- **[E-commerce UI Automation](https://github.com/sksharma903231/ecommerce-ui-automation)** — Java, Selenium WebDriver, TestNG, Page Object Model, ExtentReports.
+`Java` `Selenium` `TestNG` `Maven` `REST Assured` `SQL` `Git` `Azure DevOps`
 
-## Tech
+### Projects I've been working on
 
-Java · Selenium WebDriver · REST Assured · TestNG · Maven · SQL · Git · Azure DevOps · GitHub Actions
+- **[Java API Automation Framework](https://github.com/sksharma903231/java-api-automation-framework)**  
+  Exploring API automation with REST Assured, response validation, schema validation and reporting.
 
-[LinkedIn](https://www.linkedin.com/in/sumit-sharma-937047272/) · [Repositories](https://github.com/sksharma903231?tab=repositories)
+- **[E-commerce UI Automation](https://github.com/sksharma903231/ecommerce-ui-automation)**  
+  Automating user journeys using Selenium, Java and the Page Object Model.
+
+- **[ResearchMinds AI](https://github.com/sksharma903231/Researchminds-AI)**  
+  An independent experiment exploring retrieval-augmented generation (RAG).
+
+### Beyond testing
+
+I also enjoy exploring robotics, simulation and other engineering projects.
+
+[LinkedIn](https://www.linkedin.com/in/sumit-sharma-937047272/) · [Explore my repositories](https://github.com/sksharma903231?tab=repositories)
