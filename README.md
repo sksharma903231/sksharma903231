@@ -13,4 +13,4 @@ Working in QA at Accenture, focused on Salesforce testing and Java/Selenium auto
 
 Java · Selenium WebDriver · REST Assured · TestNG · Maven · SQL · Git · Azure DevOps · GitHub Actions
 
-[LinkedIn](https://www.linkedin.com/in/sumitsharma903231/) · [Repositories](https://github.com/sksharma903231?tab=repositories)
+[LinkedIn](https://www.linkedin.com/in/sumit-sharma-937047272/) · [Repositories](https://github.com/sksharma903231?tab=repositories)
